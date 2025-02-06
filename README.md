@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lucas and I'm a 3rd year university student, studying a Bachelor (Honours) & Master of Software Engineering.
+Hi, I'm Lucas and I'm a 4th year university student, studying a Bachelor (Honours) & Master of Software Engineering.
 
 
 ## 🌐 Socials:
